@@ -1,0 +1,15 @@
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\bin\Debug\net6.0\Scoreboard.exe
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\bin\Debug\net6.0\Scoreboard.deps.json
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\bin\Debug\net6.0\Scoreboard.runtimeconfig.json
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\bin\Debug\net6.0\Scoreboard.dll
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\bin\Debug\net6.0\Scoreboard.pdb
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\obj\Debug\net6.0\Scoreboard.csproj.AssemblyReference.cache
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\obj\Debug\net6.0\Scoreboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\obj\Debug\net6.0\Scoreboard.AssemblyInfoInputs.cache
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\obj\Debug\net6.0\Scoreboard.AssemblyInfo.cs
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\obj\Debug\net6.0\Scoreboard.csproj.CoreCompileInputs.cache
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\obj\Debug\net6.0\Scoreboard.dll
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\obj\Debug\net6.0\refint\Scoreboard.dll
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\obj\Debug\net6.0\Scoreboard.pdb
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\obj\Debug\net6.0\Scoreboard.genruntimeconfig.cache
+C:\Users\revok\OneDrive - Inter American University of Puerto Rico - Bayamon Campus\Documents\C#\Scoreboard\Scoreboard\obj\Debug\net6.0\ref\Scoreboard.dll
